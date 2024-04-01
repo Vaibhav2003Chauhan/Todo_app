@@ -1,4 +1,3 @@
-This is the task for the Internship at analystt.ai for the role of Python developer
 
 I had made a command line Todo list using Python which can add delete or update the task as per needed.
 
