@@ -8,10 +8,3 @@ In this we use a dictonary to store task in format of key value pair and eventua
 
 You just had to pick operation of your choice you want to perform on the dictonary.
 
-
-All the Screenshots are attached with this Project 
-
-
-name: Vaibhav Chauhan
-
-email: vishuchauhan461@gmail.com
